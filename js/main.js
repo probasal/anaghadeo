@@ -210,7 +210,7 @@ jQuery(document).ready(function($){
 
 	     if (screen.width <= 600) {
 
-	        window.location = "https://www.anaghadeo.com/m-version/index.html";
+	        window.location = "https://anaghadeo.com/m-version/index.html";
 
 	      }
 
